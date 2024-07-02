@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hangman Game
 
 </br>
@@ -62,3 +63,7 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 
 Email me at: abdou19.tech@gmail.com.
+=======
+# Hangman_using_gsap
+This is a Hangman Game using JS and gsap animation
+>>>>>>> d5b6a8ead853dd5778de3d0512f9d759f32643b0
